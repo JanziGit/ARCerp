@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ARCerp.Pages.UserAccount
+namespace ARCerp.Pages.Auth
 {
     public class LoginModel : PageModel
     {
